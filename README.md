@@ -1,0 +1,1 @@
+Pseudocódigo desenvolvido para uma lanchonete fictícia usando o visualg30. O objetivo era mostrar o cardápio, receber a escolha do cliente, aplicar os possíveis descontos e repetir o processo caso o cliente deseje realizar mais um pedido. 
